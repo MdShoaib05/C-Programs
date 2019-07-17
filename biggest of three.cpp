@@ -1,3 +1,6 @@
+/*Author:Md Shoaib
+  Purpose:Biggest of three integers
+  Date:10/06/2019 */
 #include <stdio.h>
 
 int main()
@@ -15,7 +18,7 @@ int main()
 	printf("Type your third value:\n");
 	scanf("%d", & value3);
 	
-	//logic usinf if condition
+	//logic using if condition
 	
 	if(value1 > big)
 	{
